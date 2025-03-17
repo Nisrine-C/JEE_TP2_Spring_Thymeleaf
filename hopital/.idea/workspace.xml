@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf4ec74e-4da8-4cc6-a903-a37a3d41d74b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/tp2/hopital/web/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp2/hopital/web/PatientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tp2/hopital/repository/PatientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp2/hopital/repository/PatientRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742204792797</updated>
-      <workItem from="1742204793952" duration="4937000" />
+      <workItem from="1742204793952" duration="6221000" />
     </task>
     <servers />
   </component>
