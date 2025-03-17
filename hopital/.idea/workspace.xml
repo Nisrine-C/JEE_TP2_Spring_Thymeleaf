@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf4ec74e-4da8-4cc6-a903-a37a3d41d74b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tp2/hopital/HopitalApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tp2/hopital/entities/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tp2/hopital/repository/PatientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tp2/hopital/HopitalApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hopital/src/main/java/tp2/hopital/web/PatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hopital/src/main/resources/templates/patients.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hopital/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hopital/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,9 +45,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Maven.hopital [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "Spring Boot.HopitalApplication.executor": "Run",
+    "git-widget-placeholder": "<unknown>",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/HP/IdeaProjects/JEE_TP1_Injection_des_Dependances",
     "node.js.detected.package.eslint": "true",
@@ -91,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742204792797</updated>
-      <workItem from="1742204793952" duration="2028000" />
+      <workItem from="1742204793952" duration="3667000" />
     </task>
     <servers />
   </component>
