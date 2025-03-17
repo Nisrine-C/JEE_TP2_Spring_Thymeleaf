@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf4ec74e-4da8-4cc6-a903-a37a3d41d74b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hopital/src/main/java/tp2/hopital/web/PatientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hopital/src/main/resources/templates/patients.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hopital/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hopital/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tp2/hopital/web/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp2/hopital/web/PatientController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742204792797</updated>
-      <workItem from="1742204793952" duration="3667000" />
+      <workItem from="1742204793952" duration="4937000" />
     </task>
     <servers />
   </component>
